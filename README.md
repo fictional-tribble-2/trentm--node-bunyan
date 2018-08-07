@@ -1,5 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/bunyan.svg?style=flat)](https://www.npmjs.com/package/bunyan)
-[![Build Status](https://travis-ci.org/trentm/node-bunyan.svg?branch=master)](https://travis-ci.org/trentm/node-bunyan) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/trentm--node-bunyan.svg)](https://www.staging.guardrails.io)
+[![Build Status](https://travis-ci.org/trentm/node-bunyan.svg?branch=master)](https://travis-ci.org/trentm/node-bunyan) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/trentm--node-bunyan.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/trentm--node-bunyan.svg)](https://www.guardrails.io)
 
 Bunyan is **a simple and fast JSON logging library** for node.js services:
 
